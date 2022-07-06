@@ -1,0 +1,131 @@
+
+body{
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+
+h1{
+    font-size:70px;
+}
+.top-banner{
+    color: white;
+    background-image: url(images/donation3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    padding: 300px 100px;
+}
+.link-button{
+    background-color: tomato;
+    border-style: none;
+    color: white;
+    border-radius: 5%;
+    padding: 20px;
+}
+
+h2{
+    font-size:50px;
+}
+.donate-today{
+    margin-top: 10%;
+    margin-bottom: 10%;
+    text-align: center;
+}
+.flexible-container{
+    width: 50%;
+    margin-left: 25%;
+    display: flex;
+}
+.tk-box{
+    font-size: 30px;
+    font-weight: 800px;
+    margin: 10px;
+    padding: 0px 20px;
+    border-radius: 5px;
+    background-color: gray;
+}
+.tk-box-red{
+    font-size: 30px;
+    font-weight: 800px;
+    margin: 10px;
+    padding: 0px 20px;
+    border-radius: 5px;
+    background-color: tomato;
+}
+.half-width{
+    width: 50%;
+    margin-left: 25%;
+}
+
+.donate-plan{
+    text-align: center  ;
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+
+.food{
+    margin: 10px;
+    padding: 20px;
+    border-radius: 5px;
+    background-color: rgb(177, 171, 208);
+}
+
+.shelter{
+   
+    margin: 10px;
+    padding: 20px;
+    border-radius: 5px;
+    background-color: rgb(204, 159, 186);
+}
+.education{
+   
+    margin: 10px;
+    padding: 20px;
+    border-radius: 5px;
+    background-color: chartreuse;
+}
+.form{
+    background-color: burlywood;
+    text-align: center;
+    width: 50%;
+    margin-top: 5%;
+    margin-left: 25%;
+    padding: 30px;
+    border-radius: 5px;
+
+}
+input[type=text], input[type=password] {
+    margin-top: 10%;
+    margin-bottom: 10%;
+    width: 100%;
+    padding: 15px;
+    margin: 5px 0 22px 0;
+    display: inline-block;
+    border: none;
+    background: #f1f1f1;
+  }
+.container {
+    margin-top: 10px;
+    padding: 16px;
+    background-color: white;
+    text-align: center  ;
+}
+.subscribe-button {
+    background-color: #04AA6D;
+    display: inline-block;
+    color: white;
+    padding: 15px;
+    margin: 5px 0 22px 0 ;
+    border: none;
+    cursor: pointer;
+    width: 30%;
+    opacity: 0.9;
+  }
+    
+footer{
+    background-color: black;
+    text-align: center;
+    margin-top : 20px;
+    padding: 5%;
+    color: white;
+}
