@@ -60,7 +60,7 @@ h2{
 .donate-plan{
     text-align: center  ;
     margin-top: 10%;
-    margin-bottom: 10%;
+    margin-bottom: 20%;
 }
 
 .food{
@@ -110,6 +110,24 @@ input[type=text], input[type=password] {
     background-color: white;
     text-align: center  ;
 }
+.food{
+    margin: 10px;
+    padding: 20px;
+    border-radius: 5px;
+    background-color: rgb(177, 171, 208);
+}
+.contribute{
+   
+    
+    padding: 20px;
+    border-radius: 5px;
+    background-color: rgb(56, 216, 237);
+}
+.contribute-pic{
+
+    padding: 20px;
+    border-radius: 5px;
+}
 .subscribe-button {
     background-color: #04AA6D;
     display: inline-block;
@@ -120,6 +138,7 @@ input[type=text], input[type=password] {
     cursor: pointer;
     width: 30%;
     opacity: 0.9;
+    margin-top: ;
   }
     
 footer{
